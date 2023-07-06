@@ -1,4 +1,9 @@
 # Bank_Customer_Churan_model_ML
+## This project is a Real-World project of Data Analysis using python,Support Vector Classifier and python libraries
+You will get end to end code here....
+hope this will help you
+
+
 To create a churn model using a support vector classifier, follow these steps:
 
 1. Preprocess the data: Clean and prepare the dataset by handling missing values, encoding categorical variables, and scaling numerical features.
